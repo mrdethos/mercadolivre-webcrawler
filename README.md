@@ -52,4 +52,4 @@ Para otimizar esse processo, o fluxograma propõe uma abordagem escalável usand
 
 ![Diagrama de Fluxo de Processo](fluxograma.svg)
 
-O diagrama foi criado em formato SVG, utilizando uma ferramenta de edição de gráficos.
+O diagrama foi criado em formato SVG, utilizando uma ferramenta de edição de gráficos, é recomendado que baixe o arquivo para uma melhor visualização.
