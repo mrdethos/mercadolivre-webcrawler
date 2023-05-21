@@ -24,8 +24,8 @@ def get_anuncio_data(anuncio):
     '''
     # Obtém o preço atual do anúncio
     try:
-        preco_atual = anuncio.find_element(
-            By.CSS_SELECTOR, '.andes-money-amount-combo__main-container .andes-money-amount__fraction').text
+        preco_atual = anuncio.find_element_by_css_selector(
+            '.andes-money-amount-combo__main-container .andes-money-amount__fraction').text
     except:
         preco_atual = "N/A"
 
